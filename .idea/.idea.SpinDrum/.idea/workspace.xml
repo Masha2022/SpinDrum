@@ -4,69 +4,111 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a188ca2-4116-4932-84b6-8df0f82e01ff" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SpinDrum/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SpinDrum/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SpinDrum/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SpinDrum/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SpinDrum/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SpinDrum/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/CubeMaterial.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/CubeMaterial.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/MaterialPlane.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/MaterialPlane.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/MaterialSphere.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/MaterialSphere.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/New Material.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/New Material.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/New Physic Material.physicMaterial" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/New Physic Material.physicMaterial.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/TransparentCube.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/TransparentCube.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logs/Packages-Update.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/MemorySettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/VersionControlSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/boot.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpinDrum.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Temp/workerlic" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    <list default="true" id="1a188ca2-4116-4932-84b6-8df0f82e01ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/18/18ea55245b5843e295cb125ec36170b7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/2e/2e3817316c807f0db4b99a1a92ae5319" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/30/30418cd0be3b154ebf92a5af4befad27" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/31/3151bfea66588f9437dae583e116206c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/31/3189bebc6067aef85ba110b3dccf5efc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/34/344e7877ef44b080ae5ffe7c342530e7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/36/360855e3b989eb7c21371443b682ea92" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/44/447ad41e433c1ffc9c3b3912c465b625" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/4b/4bdaa3a6afde2b7834c5fc665dd8a427" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/4e/4e409e18b91dfbd9bc4feff6af9a9a3c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/55/55b5b6b149703ab77cb03c9c1770c18a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/59/592d7068cb42bbc440d82aac74c8ab5a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/59/59dbb069e1078480363e3cfd6f7826cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/62/62c98e5b8547a36efba4d88aca88634a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/67/6703a191eca929baf13a88c58e62572f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/7c/7c2d148a2df90a1b69ccb1c861a9d47b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/7d/7d390f0669052a024ab4bde9dddd9c84" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/7d/7d5eacd51217902a4d6e9a8afebed83b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/81/8173ea973fffbbe27ab0fb13d02446fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/81/81a3616c6f6dbca6d6f5e7fdda6291da" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/81/81c63687c65e546a43ebd43e77e21341" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/95/95369fcce552e09e878a2e25f308200e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/96/968776f871484c23ea2d336acf8e8de8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/a5/a54841ddf12e682a35edb11cd240d028" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/a7/a7e983c47879ce34712ca38d366839aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/b4/b4aefc36c90ceb4cba21e964a36f72b6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/bf/bfb8ada1094b267f45861a030c1bbd90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/cd/cde7ddbeb75b18ce42532a29adb7b4e3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/d5/d51657f8b8e169425ce2b5b12171a807" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/db/dbf890d2b1a80625282e897889115abe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/e6/e68a245277e57be694e9bd50afa1c380" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/e6/e6f0e9873e804b5fe1d2334084b1940f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/ec/ec1d9fd69dca47528d384fa23ea82ce8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/ed/edfdb60401db6a53aea180da814d27ae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Artifacts/ee/ee4f0f43a081c79d194f15b4add7780f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.dll.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/mvdfrm/UnityEngine.ProfilerModule.dll_24C12C84A3B240BF.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_08FEAA520A2EFD60.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestWWWModule.dll_CF146BCF8EFEC1BD.mvfrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.15.7/Editor/PlasticSCM/Assets/Images/d_genericbuhochristmas1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.15.7/Editor/PlasticSCM/Assets/Images/d_genericbuhoshechristmas2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.15.7/Editor/PlasticSCM/Assets/Images/d_icondeletedremote@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.15.7/Editor/PlasticSCM/Assets/Images/d_step2@2x.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.15.7/Editor/PlasticSCM/AssetsUtils/SaveAssets.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.15.7/Editor/PlasticSCM/FindWorkspace.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.15.7/Editor/PlasticSCM/UI/Tree.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio@2.0.12/Editor/COMIntegration/COMIntegration~/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.vscode@1.2.4/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.29/UnityEditor.TestRunner/Api/ITestTreeRebuildCallbacks.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.29/UnityEngine.TestRunner/NUnitExtensions/TestExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.29/UnityEngine.TestRunner/TestRunner/TestPlatform.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.29/UnityEngine.TestRunner/Utils/TestRunCallbackListener.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.29/UnityEngine.TestRunner/Utils/TestRunCallbackListener.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.29/UnityEngine.TestRunner/Utils/Vector2EqualityComparer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/Editor/CoverageFormats/OpenCover/Mono.Reflection/Disassembler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/Editor/CoverageResultWriterBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/Samples~/Tutorial/Asteroids/Scripts/FX/EngineTrail.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/Samples~/Tutorial/Asteroids/Scripts/Weapons/ProjectileController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.6.3/Documentation~/images/timeline_inspector_animation_clip_playable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.6.3/Documentation~/images/timeline_inspector_narrow_selection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.6.3/Editor/StyleSheets/Images/Icons/TrackAvatarButtonEnabled@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.6.3/Editor/inspectors/MarkerInspector.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.6.3/Runtime/Evaluation/RuntimeElement.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.6.3/Samples~/GameplaySequenceDemo/Particles/SparksEffect.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/VertexModifiers/Outline.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Tests/Runtime/Toggle/ToggleGroupTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-advanced-topics-intro.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Analytics/OnPreprocessBuildAnalyticsEventHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Interface/Colors/ColorPalette.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Serialization/TypeExtensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Flow/Description/UnitAnalysis.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Flow/Options/UnitOptionTree.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Flow/Plugin/Changelogs/Changelog_1_3_0.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.7.6/Runtime/VisualScripting.Core/EditorBinding/InspectableAttribute.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.7.6/Runtime/VisualScripting.Core/Events/MessageListeners/MonoBehaviourMessageListeners/UnityOnBecameVisibleMessageListener.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.7.6/Runtime/VisualScripting.Core/Serialization/SerializableType.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.7.6/Runtime/VisualScripting.Core/Serialization/SerializationVersionAttribute.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.7.6/Runtime/VisualScripting.Core/Variables/SavedVariables.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.7.6/Runtime/VisualScripting.Flow/Framework/Codebase/GetMember.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.7.6/Runtime/VisualScripting.Flow/Framework/Math/Divide.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.7.6/Runtime/VisualScripting.Flow/Framework/Math/Vector2/Vector2PerSecond.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.7.6/Runtime/VisualScripting.Flow/Ports/ControlInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.7.6/Runtime/VisualScripting.State.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/builtin/unity_builtin_extra0000/00/915bc8fd48870f4f79ddda634932fe44.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SpinDrum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SpinDrum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/CubeMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/CubeMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/MaterialPlane.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/MaterialPlane.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/MaterialSphere.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/MaterialSphere.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Physic Material.physicMaterial" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Physic Material.physicMaterial" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/TransparentCube.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/TransparentCube.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +170,18 @@
       <option name="presentableId" value="Default" />
       <updated>1665691243661</updated>
       <workItem from="1665691244851" duration="352000" />
+      <workItem from="1665693164794" duration="985000" />
+      <workItem from="1666947084120" duration="3000" />
+      <workItem from="1666961258140" duration="13055000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1665693355665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665693355665</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
